@@ -8,7 +8,7 @@ This package helps to detect different call states like `Incoming`, `Disconnecte
 Add the package to your react-native project in the following way
 
 ```shell
-yarn add react-native-call-detection
+npm install https://github.com/renishmithani/react-native-call-detection.git
 
 ```
 
